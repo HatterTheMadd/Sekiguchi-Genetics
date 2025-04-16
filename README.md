@@ -5,28 +5,86 @@
 ex: MADD // SekGen™ R&D, Field Lead
 Note: There is a 32 character limit for your name including spaces so you might need to shorten or hyphenate.
 
+# CORP OFFICERS
+CEO - (N/A)
+CTO - (N/A)
+CFO - (N/A)
+COO - (N/A)
+CIO - (N/A)
+CMO - (N/A)
+
+# General Counsel
+//To be filled//
+
 # DEPARTEMENTS
 ## Operations
+//To be filled//
+
 ## Special Operations
-### //CLASSIFIED//
+ALPHA TEAM LEAD - //To be filled//
+ALPHA TEAM - //To be filled//
+BRAVO TEAM LEAD - //To be filled//
+BRAVO TEAM - //To be filled//
+CHARLIE TEAM LEAD - //To be filled//
+CHARLIE TEAM - //To be filled//
+
 ## R&D
-### //CLASSIFIED//
+Reasearch Lead - //To be filled//
+Development Lead - //To be filled//
+R&D HQ Lead - //To be filled//
+R&D Field Lead - MADD
+
+
 ## Security
-### //CLASSIFIED//
+//To be filled//
+
 ### Central Intellegence
+//To be filled//
+
 ### Internal Affairs
+//To be filled//
+
 ## HR
+//To be filled//
+
 ## IT
-### //CLASSIFIED//
+//To be filled//
+
 ## Logistics
+//To be filled//
+
+### Courior Teams
+//To be filled//
+
 ## Worm
-## //VOID//
+//To be filled//
+
+## VOID
+Senior Director - xh0ll0w
+
 ## Sales
+//To be filled//
+
 ## PR
+//To be filled//
+
 ### Propaganda
+//To be filled//
+
 ### Memetics
+//To be filled//
+
 ## Philosophy
+//To be filled//
+
 ## Genetics
+//To be filled//
+
 ### Chemistry
+//To be filled//
+
 ### BioChemistry
+//To be filled//
+
 ### Eugenics
+Benjamin
