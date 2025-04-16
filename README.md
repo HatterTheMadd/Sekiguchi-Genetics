@@ -21,70 +21,70 @@ CMO - (N/A)<br/>
 //To be filled//
 
 ## Special Operations
-ALPHA TEAM LEAD - //To be filled//
-ALPHA TEAM - //To be filled//
-BRAVO TEAM LEAD - //To be filled//
-BRAVO TEAM - //To be filled//
-CHARLIE TEAM LEAD - //To be filled//
-CHARLIE TEAM - //To be filled//
+ALPHA TEAM LEAD - //To be filled//<br/>
+ALPHA TEAM - //To be filled//<br/>
+BRAVO TEAM LEAD - //To be filled//<br/>
+BRAVO TEAM - //To be filled//<br/>
+CHARLIE TEAM LEAD - //To be filled//<br/>
+CHARLIE TEAM - //To be filled//<br/>
 
 ## R&D
-Reasearch Lead - //To be filled//
-Development Lead - //To be filled//
-R&D HQ Lead - //To be filled//
-R&D Field Lead - MADD
+Reasearch Lead - //To be filled//<br/>
+Development Lead - //To be filled//<br/>
+R&D HQ Lead - //To be filled//<br/>
+R&D Field Lead - MADD<br/>
 
 
 ## Security
-//To be filled//
+//To be filled//<br/>
 
 ### Central Intellegence
-//To be filled//
+//To be filled//<br/>
 
 ### Internal Affairs
-//To be filled//
+//To be filled//<br/>
 
 ## HR
-//To be filled//
+//To be filled//<br/>
 
 ## IT
-//To be filled//
+//To be filled//<br/>
 
 ## Logistics
-//To be filled//
+//To be filled//<br/>
 
 ### Courior Teams
-//To be filled//
+//To be filled//<br/>
 
 ## Worm
-//To be filled//
+//To be filled//<br/>
 
 ## VOID
-Senior Director - xh0ll0w
+Senior Director - xh0ll0w<br/>
 
 ## Sales
-//To be filled//
+//To be filled//<br/>
 
 ## PR
-//To be filled//
+//To be filled//<br/>
 
 ### Propaganda
-//To be filled//
+//To be filled//<br/>
 
 ### Memetics
-//To be filled//
+//To be filled//<br/>
 
 ## Philosophy
-//To be filled//
+//To be filled//<br/>
 
 ## Genetics
-//To be filled//
+//To be filled//<br/>
 
 ### Chemistry
-//To be filled//
+//To be filled//<br/>
 
 ### BioChemistry
-//To be filled//
+//To be filled//<br/>
 
 ### Eugenics
-Benjamin
+Benjamin<br/>
