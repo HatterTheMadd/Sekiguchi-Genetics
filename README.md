@@ -28,6 +28,9 @@ BRAVO TEAM - //To be filled//<br/>
 CHARLIE TEAM LEAD - //To be filled//<br/>
 CHARLIE TEAM - //To be filled//<br/>
 
+## Field Operations
+SIRIÜS
+
 ## R&D
 Reasearch Lead - //To be filled//<br/>
 Development Lead - //To be filled//<br/>
