@@ -6,12 +6,12 @@ ex: MADD // SekGen™ R&D, Field Lead
 Note: There is a 32 character limit for your name including spaces so you might need to shorten or hyphenate.
 
 # CORP OFFICERS
-CEO - (N/A)
-CTO - (N/A)
-CFO - (N/A)
-COO - (N/A)
-CIO - (N/A)
-CMO - (N/A)
+CEO - (N/A)<br/>
+CTO - (N/A)<br/>
+CFO - (N/A)<br/>
+COO - (N/A)<br/>
+CIO - (N/A)<br/>
+CMO - (N/A)<br/>
 
 # General Counsel
 //To be filled//
