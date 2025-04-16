@@ -38,10 +38,10 @@ R&D Field Lead - MADD<br/>
 ## Security
 //To be filled//<br/>
 
-### Central Intellegence
+### Security - Central Intellegence
 //To be filled//<br/>
 
-### Internal Affairs
+### Security - Internal Affairs
 //To be filled//<br/>
 
 ## HR
@@ -53,7 +53,7 @@ R&D Field Lead - MADD<br/>
 ## Logistics
 //To be filled//<br/>
 
-### Courior Teams
+### Logistics - Courior Teams
 //To be filled//<br/>
 
 ## Worm
@@ -68,10 +68,10 @@ Senior Director - xh0ll0w<br/>
 ## PR
 //To be filled//<br/>
 
-### Propaganda
+### PR - Propaganda
 //To be filled//<br/>
 
-### Memetics
+### PR - Memetics
 //To be filled//<br/>
 
 ## Philosophy
@@ -80,11 +80,11 @@ Senior Director - xh0ll0w<br/>
 ## Genetics
 //To be filled//<br/>
 
-### Chemistry
+### Genetics - Chemistry
 //To be filled//<br/>
 
-### BioChemistry
+### Genetics - BioChemistry
 //To be filled//<br/>
 
-### Eugenics
+### Genetics - Eugenics
 Benjamin<br/>
