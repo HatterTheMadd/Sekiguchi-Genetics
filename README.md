@@ -1,9 +1,9 @@
 ![alt text](https://pbs.twimg.com/media/Gof9xW2W4AA8APN?format=jpg&name=4096x4096 "Sekiguchi-Genetics")
 
 # FORMATTING
-[Nickname] // SekGen™ [Department], [Role]
-ex: MADD // SekGen™ R&D, Field Lead
-Note: There is a 32 character limit for your name including spaces so you might need to shorten or hyphenate.
+[Nickname] // SekGen™ [Department], [Role]<br/>
+ex: MADD // SekGen™ R&D, Field Lead<br/>
+Note: There is a 32 character limit for your name including spaces so you might need to shorten or hyphenate.<br/>
 
 # CORP OFFICERS
 CEO - (N/A)<br/>
